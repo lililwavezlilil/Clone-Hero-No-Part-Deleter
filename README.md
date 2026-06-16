@@ -32,6 +32,6 @@ https://github.com/lililwavezlilil
 
 **Features & Functionality:**
 
-• Searches through your Clone Hero songs folder/directory for any songs (notes.chart) that have no Guitar, Bass, Rhythm, or Keys charted and deletes them
+• Searches through your Clone Hero songs folder/directory for any songs *(notes.chart)* that have no Guitar, Bass, Rhythm, or Keys charted and deletes them
 
-• When deleted, the songs (notes.chart) file(s) are NOT sent to the Recycling Bin, they are PERMANENTLY deleted
+• When deleted, the songs *(notes.chart)* file(s) are NOT sent to the Recycling Bin, they are **PERMANENTLY** deleted
