@@ -36,5 +36,5 @@ https://github.com/lililwavezlilil
 
 • When deleted, the songs *(notes.chart)* file(s) are NOT sent to the Recycling Bin, they are **PERMANENTLY** deleted
 
-<img width="3840" height="2160" alt="Screenshot (380)" src="https://github.com/user-attachments/assets/d6e2a8cd-c8b7-4f6b-8131-7c8392da8f24" />
 <img width="3840" height="2160" alt="Screenshot (379)" src="https://github.com/user-attachments/assets/2e07f2d4-d8fb-4037-8fe6-cd942e926fc9" />
+<img width="3840" height="2160" alt="Screenshot (380)" src="https://github.com/user-attachments/assets/d6e2a8cd-c8b7-4f6b-8131-7c8392da8f24" />
