@@ -38,4 +38,4 @@ https://github.com/lililwavezlilil
 
 <img width="3840" height="2160" alt="Screenshot (379)" src="https://github.com/user-attachments/assets/2e07f2d4-d8fb-4037-8fe6-cd942e926fc9" />
 <img width="3840" height="2160" alt="Screenshot (380)" src="https://github.com/user-attachments/assets/d6e2a8cd-c8b7-4f6b-8131-7c8392da8f24" />
-<div align+"center"><picture><img width="256" height="256" alt="Clone Hero No Part Deleter Icon 2" src="https://github.com/user-attachments/assets/59a25d4a-6ffa-40bf-8486-6c9aa51a083e" /><picture><div>
+<div align="center"><picture><img width="256" height="256" alt="Clone Hero No Part Deleter Icon 2" src="https://github.com/user-attachments/assets/59a25d4a-6ffa-40bf-8486-6c9aa51a083e" /><picture><div>
