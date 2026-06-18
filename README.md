@@ -1,4 +1,4 @@
-# <picture><img width="32" height="32" alt="Clone Hero No Part Deleter Icon 2" src="https://github.com/user-attachments/assets/59a25d4a-6ffa-40bf-8486-6c9aa51a083e" /><picture>**Clone Hero No Part Deleter**<picture><img width="32" height="32" alt="Clone Hero No Part Deleter Icon 2" src="https://github.com/user-attachments/assets/59a25d4a-6ffa-40bf-8486-6c9aa51a083e" /><picture>
+# <picture><img width="32" height="32" alt="Clone Hero No Part Deleter Icon 2" src="https://github.com/user-attachments/assets/59a25d4a-6ffa-40bf-8486-6c9aa51a083e" /><picture>**Clone Hero No Part Deleter**<picture><img width="32" height="32" alt="Clone Hero No Part Deleter Icon 2" src="https://github.com/user-attachments/assets/59a25d4a-6ffa-40bf-8486-6c9aa51a083e" /><picture> <sup><sup>*(v1.0.1)*</sup></sup>
 
 Clone Hero No Part Deleter will find and delete any Clone Hero song folder that has no Guitar, Bass, Rhythm, or Keys inside your Clone Hero songs directory
 
